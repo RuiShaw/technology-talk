@@ -18,6 +18,7 @@
 ##### 流量分发
 
 * [跟我学Nginx+Lua开发](http://www.iteye.com/blogs/subjects/nginx-lua)
+* [通过 Lua 扩展 NGINX 实现的可伸缩的 Web 平台 -- openresty](http://openresty.org/cn/installation.html)
 * [OpenResty官网](https://openresty.org/cn/)
 * [企业服务总线 --- UltraESB](https://www.adroitlogic.com/)
 
@@ -47,6 +48,8 @@
 	* [通用缓存访问JetCache介绍](https://mp.weixin.qq.com/s/qzS6fPUj70MW7LuMbefWZQ)
 	* [JetCache的异步API访问Redis缓存](https://mp.weixin.qq.com/s/HvJwP5mWegDZYUO6TAeJ1g)
 * [时间序列数据库 --- InfluxDB](InfluxDB.md)
+* [基于Cassandra存储的快速时间序列数据库 --- KairosDB](http://www.kairosdb.com/)
+* [关系数据库管理系统 --- PostgreSQL](https://www.yiibai.com/postgresql/)
 
 ##### 服务治理
 * [主从心跳检测 --- Keepalived](http://blog.csdn.net/xyang81/article/details/52556886)
@@ -69,6 +72,8 @@
 * [findbug]()
 * [性能压测 --- jmeter](http://jmeter.apache.org/)
 * [性能压测 --- jprofiler]()
+* 自动化
+	* [自动化测试工具 --- selenium](http://www.selenium.org.cn/)
 
 ##### 图形、图表、图片
 
@@ -86,6 +91,13 @@
 ##### 通用型
 * [Java生态圈框架汇总---可能会有满足你的](https://github.com/jobbole/awesome-java-cn)
 
+##### 动态管理Class字节码
+* [Javassist]()
+* [groovy](groovy.md)
+
+##### 监控
+* [日志数据监控 ---- Grafana](https://yq.aliyun.com/articles/227006)
+
 ##### 杂项
 
 * [商品详情页的静态化 --- FreeMarker](FreeMarker.md)
@@ -97,4 +109,6 @@
 * 字符串表达式动态求值
 	* [aviator](https://github.com/killme2008/aviator/wiki)
 	* [MVEL](http://blog.csdn.net/sunnyyoona/article/details/75244442)
-*
+* [json数据比对 --- jsondiffpatch](https://github.com/benjamine/jsondiffpatch)
+* [无头浏览器 --- HtmlUnit](https://www.cnblogs.com/zerotomax/p/7255950.html)
+* [Java爬虫 --- cdp4j](https://www.jianshu.com/p/054b50026f9a)
